@@ -6,7 +6,7 @@ Interested in ubiquitous computing, HCI, and neural interfaces. Ex-software/pate
 Here's a [short overview](journey.md) of my projects on GitHub. A few of my faves are pinned below.
 
 ### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/jxcrw/) / [LeetCode](https://leetcode.com/jxcrw/)
+[LinkedIn](https://www.linkedin.com/in/jxcrw) / [LeetCode](https://leetcode.com/jxcrw) / [Monkeytype](https://monkeytype.com/profile/jxcrw)
 
 <!-- <img width="30" align="right" alt="GitHub Mona" src="https://github.githubassets.com/images/mona-loading-default.gif"> -->
 
