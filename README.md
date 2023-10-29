@@ -1,6 +1,6 @@
 <!-- 2023-10-26 -->
 ### Howdy, I'm Jak <img width="150" align="right" src="./_img/chibi_nobg.png">
-- 😎 I love building things. Especially ubiquitous computing and HCI/BCI things.
+- 😎 I \*love\* building things. Especially ubiquitous computing and HCI/BCI things.
 - 🔭 Here are some [neat things](journey.md) I have built. Here is my [resume](journey.md).
 - 🦾 Please reach out if you'd like to build something together!
 - 🆗 English/日本語/中文/Español

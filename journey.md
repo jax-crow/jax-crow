@@ -1,5 +1,5 @@
 # As The Crow Flies
-An overview of my journey as a software engineer.
+An overview of my journey as a software engineer. 😎
 
 <!-- When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
@@ -41,7 +41,7 @@ _In order by estimated interest to the casual visitor. (Welcome!)_
     </tr>
     <tr>
         <td><a href="https://github.com/jxcrw/lifehud">lifehud</a></td>
-        <td>Visualize life projects as contribution graphs. 😎</td>
+        <td>Visualize life projects in the form of contribution graphs.</td>
         <td align="center"><code>click</code> <code>pytest</code> <code>python</code></td>
         <td align="center">2023 - ∞</td>
     </tr>
