@@ -1,5 +1,5 @@
-# Turtles All The Way Down
-A short overview of my ongoing journey as a software engineer.
+# As The Crow Flies
+An overview of my journey as a software engineer.
 
 <!-- When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
@@ -10,71 +10,144 @@ A short overview of my ongoing journey as a software engineer.
 So far it's going great - I've never been more excited to wake up every day :) . -->
 
 - [Projects](#projects)
-- [Studies](#studies)
+- [Courses](#courses)
 - [Work](#work)
-- [Degrees / Certs](#degrees--certs)
+- [Education](#education)
+
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
+
 ## Projects
+_In order by estimated interest to the casual visitor. (Welcome!)_
 <table>
+    <!-- <tr>
+        <td><a href="URL">NAME</a></td>
+        <td>DESCRIPTION</td>
+        <td align="center"><code>TECH</code> <code>TECH</code> <code>TECH</code></td>
+        <td align="center">YYYY - YYYY</td>
+    </tr> -->
     <tr>
-        <td><a href="https://github.com/jxcrw/sel">sel</a></td>
-        <td>My lifelong quest to achieve computing nirvana. Also, dotfiles :) .</td>
-        <td align="center"><code>zsh</code> <code>lua</code> <code>python</code></td>
-        <td>2016 - ∞</td>
+        <td><a href="https://github.com/jxcrw/tagg">tagg</a></td>
+        <td>Be social, without the media. Make meeting people fun again!</td>
+        <td align="center"><code>flutter</code> <code>firebase</code> <code>python</code></td>
+        <td align="center">2023 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/rosita">rosita</a></td>
+        <td>NLP-powered natlang learning tools and progress tracking.</td>
+        <td align="center"><code>nltk</code> <code>spacy</code> <code>python</code></td>
+        <td align="center">2018 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/lifehud">lifehud</a></td>
+        <td>Visualize life projects as contribution graphs. 😎</td>
+        <td align="center"><code>click</code> <code>pytest</code> <code>python</code></td>
+        <td align="center">2023 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/boosti">boosti</a></td>
+        <td>AI/CV-powered personal pool coach in a box.</td>
+        <td align="center"><code>PIL</code> <code>python</code></td>
+        <td align="center">2023 - ∞</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jxcrw/sphk">sphk</a></td>
-        <td>Stenographic (chorded) input system for the 21st century and beyond.</td>
+        <td>Chorded 200WPM+ text input for the 21st century and beyond.</td>
         <td align="center"><code>sphk</code> <code>sprO</code> <code>python</code></td>
-        <td>2017 - ∞</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jxcrw/gengo">gengo</a></td>
-        <td>NLP-powered natural language learning tools and progress tracking.</td>
-        <td align="center"><code>nltk</code> <code>spacy</code> <code>python</code></td>
-        <td>2018 - ∞</td>
+        <td align="center">2017 - ∞</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jxcrw/aodox">aodox</a></td>
-        <td>Fully custom mechanical keyboard optimized for speed/ergonomics.</td>
+        <td>Mechanical keyboard optimized for speed/ergonomics.</td>
         <td align="center"><code>kicad</code> <code>solidworks</code> <code>C</code></td>
-        <td>2018 - ∞</td>
+        <td align="center">2018 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/vegaspy">vegaspy</a></td>
+        <td>Las Vegas Python user group archive, and <a href="https://github.com/jxcrw?tab=repositories&q=Vegaspy&type=&language=&sort=">my talks</a> to date!</td>
+        <td align="center"><code>python</code></td>
+        <td>2022 - ∞</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jxcrw/superhi">superhi</a></td>
         <td>Super human-computer interaction and deep OS automation.</td>
         <td align="center"><code>autohotkey</code></td>
-        <td>2016 - ∞</td>
+        <td align="center">2016 - ∞</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jxcrw/pazuru">pazuru</a></td>
-        <td>Coding puzzle adventures. LC rank 544k, AoC 2022 rank TBDk.</td>
-        <td align="center"><code>rust</code> <code>python</code></td>
-        <td>2022 - ∞</td>
+        <td><a href="https://github.com/jxcrw/zia">zia</a></td>
+        <td>Cozy x-platform computing, OS automation, and dotfiles!</td>
+        <td align="center"><code>fish</code> <code>lua</code> <code>ahk</code> <code>python</code></td>
+        <td align="center">2016 - ∞</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jxcrw/dokugaku">dokugaku</a></td>
-        <td>Umbrella repo for self-learning, tech demos, and exploration.</td>
-        <td align="center"><code>many</code></td>
-        <td>2018 - ∞</td>
+        <td><a href="https://github.com/jxcrw/navi">navi</a></td>
+        <td>Personal knowledge/learning management system.</td>
+        <td align="center"><code>¡¡¡many!!!</code></td>
+        <td align="center">2018 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/enigmata">enigmata</a></td>
+        <td>Sandbox for training in the dark arts of DSA.</td>
+        <td align="center"><code>dsa</code> <code>algos</code> <code>python</code></td>
+        <td align="center">2022 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/aevk">aevk</a></td>
+        <td>Because computing should be fun and beautiful :) .</td>
+        <td align="center"><code>css</code> <code>inkscape</code> <code>gimp</code></td>
+        <td align="center">2018 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/clean-commits">cln-cmts</a></td>
+        <td>A convention for cleaner, more expressive commit messages.</td>
+        <td align="center"><code>git</code></td>
+        <td align="center">2022 - ∞</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/idealOS">idealOS</a></td>
+        <td>Design spec for how computers/devices should work.</td>
+        <td align="center"><code>markdown? right? guys?</code></td>
+        <td align="center">2022 - ∞</td>
     </tr>
 </table>
 
-## Studies
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+
+## Courses
 <table>
+    <!-- <tr>
+        <td><a href="URL">NAME</a></td>
+        <td>DESCRIPTION</td>
+        <td align="center"><code>TECH</code> <code>TECH</code> <code>TECH</code></td>
+        <td align="center">YYYY - YYYY</td>
+    </tr> -->
     <tr>
-        <td><a href="https://github.com/jxcrw/OSU-MATH-208">UND MATH 208</a></td>
-        <td>Discrete Mathematics (private repo)</td>
-        <td>2022</td>
+        <td><a href="https://github.com/jxcrw/osu-cs261">OSU CS261</a></td>
+        <td>Data Structures 🔒</td>
+        <td align="center"><code>python</code></td>
+        <td align="center">2023</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jxcrw/OSU-CS-162">OSU CS 162</a></td>
-        <td>Introduction to Computer Science II (private repo)</td>
-        <td>2022</td>
+        <td><a href="https://github.com/jxcrw/osu-cs208">UND MATH208</a></td>
+        <td>Discrete Mathematics 🔒</td>
+        <td align="center"><code>math™</code></td>
+        <td align="center">2022</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/osu-cs162">OSU CS162</a></td>
+        <td>Introduction to Compsci II 🔒</td>
+        <td align="center"><code>python</code></td>
+        <td align="center">2022</td>
     </tr>
 </table>
+
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
 
 ## Work
 <table>
@@ -99,14 +172,18 @@ So far it's going great - I've never been more excited to wake up every day :) .
     <tr>
         <td align="center">Software Translator</td>
         <td align="center">Nintendo</td>
-        <td>Localize Japanese SDKs for 3DS/Wii U/Switch.</td>
+        <td>Localize Japanese SDKs for Switch/Wii/3DS.</td>
         <td align="center">2012 - 2020 (Redmond, WA)</td>
     </tr>
 </table>
 
-More details available on [LinkedIn](https://www.linkedin.com/in/jxcrw/).
+More details on [LinkedIn](https://www.linkedin.com/in/jxcrw/).
 
-## Degrees / Certs
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+
+## Education
 <table>
     <tr>
         <th align="center">Degree / Cert</th>
@@ -118,7 +195,7 @@ More details available on [LinkedIn](https://www.linkedin.com/in/jxcrw/).
         <td>BS Computer Science</td>
         <td align="center">4.0</td>
         <td align="center">Oregon State University</td>
-        <td align="center">Exp. 2023</td>
+        <td align="center">Exp. 2024</td>
     </tr>
     <tr>
         <td>ME Technical Japanese</td>
